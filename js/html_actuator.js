@@ -10,8 +10,8 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-var dogeSayings = ['such good', 'so amaze', 'many points', 'very unstoppable', 'great jorb', 'such playing', 'very good', 'points', 'very gaming', 'such player', 'concern' ,'bewildered',
-'many game', 'so good', 'very scores', 'so scoring', 'so hot right now', 'such playing', 'such matching', 'so matched', 'very matched', 'very neat' ,'such natural',]
+var dogeSayings = ['Lidu', 'lidu', 'lidu', 'lidu', 'lidu', 'lidiu', 'lidu', 'lidu', 'very gaming', 'such player', 'concern' ,'bewildered',
+'many game', 'so good', 'very scores', 'so scoring', 'so hot right now', 'lidu', 'such matching', 'so matched', 'very matched', 'very neat' ,'such natural',]
 
 var ads = [
 
